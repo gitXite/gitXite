@@ -1,45 +1,37 @@
-# Hi I'm Daniel, an aspiring full-stack software developer!
+# 🛠 My Journey
+I began coding in 2024 and quickly discovered a deep passion for building real-world projects. Since then, I’ve spent my spare time learning and improving every day, focusing on both frontend and backend development.
 
-## My journey
-I began my journey in software development back in 2024 and quickly discovered a deep passion for building projects with code. 
-Since then, I've been dedicating my spare time to learning and improving every day, focusing on both frontend and backend development. 
-In the autumn of 2025, I'll be starting my bachelor's degree in Computer Science and Engineering at Høgskulen på Vestlandet in Bergen, Norway. 
+In autumn 2025, I’ll begin a bachelor’s degree in Computer Science and Engineering at Høgskulen på Vestlandet in Bergen, Norway.
 
-## Skills & Technologies
-I've learnt and continuing to explore:
-- Javascript and Typescript
-- Python
-- C
-- Go
-- SQL and PostgreSQL
-- Node.js/Express
-- Git
-- React
-- Vite
+## 🧠 Skills & Technologies
+Currently learning and working with:
+- JavaScript • TypeScript
+- Python • C • Go
+- SQL & PostgreSQL
+- Node.js / Express
+- React • Vite
+- Git & GitHub
 
-## What I'm working on
-### Currently, I'm building HANDL
-A full-stack web application that reflects real-world use cases, focusing on authentication, RESTful API design, responsive UIs, and real-time features. 
-My goal is to write clean and maintainable code, focusing on best practises in addition to finding the best solution for the task at hand. 
-I'm also exploring:
-- React and modern UI/UX principles
-- Node.js/Express with PostgreSQL for backend development
-- Real-time features with Server-Sent Events (SSE)
-- Secure authentication using Passport and session-based systems
-- Deployment and hosting (planning to go live with my app soon!)
+## 🚀 What I'm Working On
+I'm building HANDL, a full-stack web app focused on:
+- Authentication & session management (Passport.js)
+- RESTful API design
+- Responsive UI & clean UX
+- Real-time updates with Server-Sent Events (SSE)
+- Deployment & hosting (launch coming soon!)
 
-### Learning
-I'm learning by doing, making real projects, and I'm not afraid to build something because it's hard. 
-I've always found solice in learning something difficult, and for me, the higher the skill cap the more I pursue. 
-I'm not afraid of spending hundreds or even thousands of hours to become the best that I can be, I enjoy the grind. 
-Some of the resources I've used:
+I aim to write clean, maintainable code and follow best practices while finding practical solutions.
+
+## 📚 Learning Philosophy
+I learn by building. I’m not afraid to take on difficult challenges — in fact, I thrive on them. I believe the higher the skill cap, the more rewarding the journey. I’m committed to putting in the time and effort to improve, one project at a time.
+
+Resources I’ve used:
 - Boot.dev
-- Udemy
-- CS50
+- CS50 (Harvard)
 - The Odin Project
+- Udemy Courses
 
-## What drives me
-I'm deeply motivated by problem-solving and continuous improvement. 
-Every project teaches me something new, whether it's writing more efficient code, understanding performance trade-offs, or improving my UI design skills. 
-I'm also learning how to work independently, structuring codebases, managing project timelines and debugging complex issues. 
-I'm committed, curious, and always striving to push my skills to the next level. 
+## 💡 What Drives Me
+I'm motivated by solving problems, continuous improvement, and seeing ideas come to life through code. Each project teaches me something new — from writing better logic to structuring apps and designing interfaces.
+
+I’m curious, driven, and always striving to push myself forward.
