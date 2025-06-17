@@ -1,11 +1,11 @@
 # Hi, I'm Daniel — an aspiring full-stack software developer!
 
-## 🛠 My Journey
+## 🗺️ My Journey
 I began coding in 2024 and quickly discovered a deep passion for building real-world projects. Since then, I’ve spent my spare time learning and improving every day, focusing on both frontend and backend development.
 
 In autumn 2025, I’ll begin a bachelor’s degree in Computer Science and Engineering at Høgskulen på Vestlandet in Bergen, Norway.
 
-## 🧠 Skills & Technologies
+## 🛠 Skills & Technologies
 Currently learning and working with:
 - JavaScript • TypeScript
 - Python • C • Go
