@@ -15,7 +15,7 @@ Currently learning and working with:
 - Git & GitHub
 
 ## 🚀 What I'm Working On
-I'm building HANDL, a full-stack web app that helps users create, manage, and share shopping lists in real time. Whether you're planning groceries solo or coordinating with family, Handl keeps everything in sync across devices. 
+I'm building HANDL, a full-stack web app that helps users create, manage, and share shopping lists in real time. Whether you're planning groceries solo or coordinating with family, HANDL keeps everything in sync across devices. 
 
 I'm focused on:
 - Authentication & session management (Passport.js)
