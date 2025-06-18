@@ -15,7 +15,7 @@ Currently learning and working with:
 - Tailwind CSS
 - Git & GitHub
 
-### 🛠 Future Learning Goals
+Future learning goals:
 - **Cloud architecture** (AWS / Azure)
 - **CI/CD workflows** with GitHub Actions
 - **Docker** for containerization
