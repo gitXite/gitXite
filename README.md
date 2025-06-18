@@ -10,28 +10,35 @@ Currently learning and working with:
 - JavaScript • TypeScript
 - Python • C • Go
 - SQL & PostgreSQL
-- Node.js / Express
+- Node.js & Express
 - React • Vite
+- Tailwind CSS
 - Git & GitHub
 
 ## 🚀 What I'm Working On
 ### HANDL
 I'm building HANDL, a full-stack web app that helps users create, manage, and share shopping lists in real time. Whether you're planning groceries solo or coordinating with family, HANDL keeps everything in sync across devices. 
 
-I'm focused on:
+Focusing on:
 - Authentication & session management (Passport.js)
 - RESTful API design
-- Responsive UI & clean UX
+- Responsive UI & clean UX in React
 - Real-time updates with Server-Sent Events (SSE)
 - Deployment & hosting (launch coming soon!)
 
-I aim to write clean, maintainable code and follow best practices while finding practical solutions.
-
 ### Date-Knight
+A lightweight date generator, arranging the perfect date with just a click. With curated activities in different categories, Date-Knight is tailored to four of the major cities in Norway. 
 
+Focusing on:
+- A lightweight backend built on Flask
+- UI design with Tailwind CSS
+- Type safety using Typescript with React/Vite
+- A possible collaboration with various businesses 
 
 ## 📚 Learning Philosophy
 I learn by building. I’m not afraid to take on difficult challenges — in fact, I thrive on them. I believe the higher the skill cap, the more rewarding the journey. I’m committed to putting in the time and effort to improve, one project at a time.
+
+I aim to write clean, maintainable code and follow best practices while finding practical solutions.
 
 Resources I’ve used:
 - Boot.dev
