@@ -33,7 +33,7 @@ Focusing on:
 - A lightweight backend built on Flask
 - UI design with Tailwind CSS
 - Type safety using Typescript with React/Vite
-- A possible collaboration with various businesses 
+- A possible collaboration with various local businesses 
 
 ## 📚 Learning Philosophy
 I learn by building. I’m not afraid to take on difficult challenges — in fact, I thrive on them. I believe the higher the skill cap, the more rewarding the journey. I’m committed to putting in the time and effort to improve, one project at a time.
