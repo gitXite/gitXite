@@ -15,6 +15,12 @@ Currently learning and working with:
 - Tailwind CSS
 - Git & GitHub
 
+#### Future Learning Goals:
+- **Cloud architecture** (AWS / Azure)
+- **CI/CD workflows** with GitHub Actions
+- **Docker** for containerization
+- **Kubernetes** for orchestration and scaling
+
 ## 🚀 What I'm Working On
 ### HANDL
 I'm building HANDL, a full-stack web app that helps users create, manage, and share shopping lists in real time. Whether you're planning groceries solo or coordinating with family, HANDL keeps everything in sync across devices. 
