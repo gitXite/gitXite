@@ -38,7 +38,7 @@ A lightweight date generator, arranging the perfect date with just a click. With
 Focusing on:
 - A lightweight backend built on Flask
 - UI design with Tailwind CSS
-- Type safety using Typescript with React/Vite
+- Type safety using Typescript with React + Vite
 - A possible collaboration with various local businesses 
 
 ## 📚 Learning Philosophy
