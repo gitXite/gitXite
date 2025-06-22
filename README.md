@@ -13,7 +13,7 @@ In autumn 2025, I’ll begin a bachelor’s degree in Computer Science and Engin
 - Node.js & Express
 - React • Vite
 - Tailwind CSS
-- Git & GitHub
+- Git & GitHub • Postman
 
 #### Future learning goals:
 - **Cloud architecture** (AWS / Azure)
