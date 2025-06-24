@@ -9,11 +9,11 @@ In autumn 2025, I’ll begin a bachelor’s degree in Computer Science and Engin
 #### Currently learning and working with:
 - JavaScript • TypeScript
 - Python • C • Go
-- SQL & PostgreSQL
-- Node.js & Express
+- SQL • PostgreSQL
+- Node.js • Express.js
 - React • Vite
-- Tailwind CSS
-- Git & GitHub • Postman
+- HTML • CSS • Tailwind CSS
+- Git • GitHub • Postman
 
 #### Future learning goals:
 - **Cloud architecture** (AWS / Azure)
