@@ -16,6 +16,7 @@ In autumn 2025, I’ll begin a bachelor’s degree in Computer Science and Engin
 - Git • GitHub • Postman
 
 #### Future learning goals:
+- C# / .NET
 - **Cloud architecture** (AWS / Azure)
 - **CI/CD workflows** with GitHub Actions
 - **Docker** for containerization
