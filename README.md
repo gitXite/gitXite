@@ -6,7 +6,7 @@ I began coding in 2024 and quickly discovered a deep passion for building real-w
 In autumn 2025, I’ll begin a bachelor’s degree in Computer Science and Engineering at Høgskulen på Vestlandet in Bergen, Norway.
 
 ## 🛠 Skills & Technologies
-#### Currently learning and working with:
+#### Currently working with:
 - JavaScript • TypeScript
 - Python • C • Go
 - SQL • PostgreSQL
