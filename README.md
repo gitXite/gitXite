@@ -19,7 +19,7 @@ In autumn 2025, I’ll begin a bachelor’s degree in Computer Science and Engin
 - C# / .NET
 - **Cloud architecture** (AWS / Azure)
 - **CI/CD workflows** with GitHub Actions
-- **Docker** for containerization
+- **Docker** for containerization ✅
 - **Kubernetes** for orchestration and scaling
 
 ## 🚀 What I'm Working On
