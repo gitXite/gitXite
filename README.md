@@ -1,4 +1,4 @@
-# Hi, I'm Daniel — an aspiring full-stack software developer!
+![Header](./github-header-banner.png)
 
 ## 🗺️ My Journey
 I began coding in 2024 and quickly discovered a deep passion for building real-world projects. Since then, I’ve spent my spare time learning and improving every day, focusing on both frontend and backend development.
