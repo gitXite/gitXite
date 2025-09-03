@@ -8,7 +8,7 @@ In autumn 2025, I’ll begin a bachelor’s degree in Computer Science and Engin
 ## 🛠 Skills & Technologies
 #### Currently working with:
 - JavaScript • TypeScript
-- Python • C • Go
+- Python • C • Go • Java
 - SQL • PostgreSQL
 - Node.js • Express.js
 - React • Vite
