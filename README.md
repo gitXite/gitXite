@@ -1,18 +1,5 @@
 <h1 align="left">Hi! My name is Daniel<br> I'm a fullstack developer and software engineer from Norway</h1>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitXite&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitXite&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gitXite/gitXite/output/snake.svg" alt="Snake animation" />
-
 ## 🗺️ My Journey
 I began coding in 2024 and quickly discovered a deep passion for building real-world projects. Since then, I’ve spent my spare time learning and improving every day, focusing on both frontend and backend development.
 
@@ -34,6 +21,19 @@ I'm doing a bachelor’s degree in Computer Science and Engineering at Høgskule
 - ✅ **CI/CD workflows** with GitHub Actions
 - ✅ **Docker** for containerization 
 - **Kubernetes** for orchestration and scaling
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitXite&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitXite&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gitXite/gitXite/output/snake.svg" alt="Snake animation" />
 
 ## 🚀 What I'm Working On
 ### HANDL
