@@ -28,7 +28,7 @@ I'm doing a bachelor’s degree in Computer Science and Engineering at Høgskule
 - HTML • CSS • Tailwind CSS
 - Git • GitHub • Postman
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -85,12 +85,6 @@ Focusing on:
 I learn by building. I’m not afraid to take on difficult challenges, in fact I thrive on them. I believe the higher the skill cap, the more rewarding the journey. I’m committed to putting in the time and effort to improve, one project at a time.
 
 I aim to write clean, maintainable code and follow best practices while finding practical solutions.
-
-Resources I’ve used:
-- Boot.dev
-- CS50 (Harvard)
-- The Odin Project
-- Udemy Courses
 
 ## 💡 What Drives Me
 I'm motivated by solving problems, continuous improvement, and seeing ideas come to life through code. Each project teaches me something new, from writing better logic to structuring apps and designing interfaces.
