@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Daniel<br> I'm a fullstack developer and software engineer from Norway</h2>
+<h1 align="left">Hi! My name is Daniel<br> I'm a fullstack developer and software engineer from Norway</h1>
 
 ## 🗺️ My Journey
 I began coding in 2024 and quickly discovered a deep passion for building real-world projects. Since then, I’ve spent my spare time learning and improving every day, focusing on both frontend and backend development.
