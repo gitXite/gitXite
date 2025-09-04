@@ -5,23 +5,6 @@ I began coding in 2024 and quickly discovered a deep passion for building real-w
 
 I'm doing a bachelor’s degree in Computer Science and Engineering at Høgskulen på Vestlandet in Bergen, Norway.
 
-## 🛠 Skills & Technologies
-#### Currently working with:
-- JavaScript • TypeScript
-- Python • C • Go • Java
-- SQL • PostgreSQL
-- Node.js • Express.js
-- React • Vite
-- HTML • CSS • Tailwind CSS
-- Git • GitHub • Postman
-
-#### Future learning goals:
-- C# / .NET
-- **Cloud architecture** (AWS / Azure)
-- ✅ **CI/CD workflows** with GitHub Actions
-- ✅ **Docker** for containerization 
-- **Kubernetes** for orchestration and scaling
-
 ###
 
 <div align="center">
@@ -34,6 +17,49 @@ I'm doing a bachelor’s degree in Computer Science and Engineering at Høgskule
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/gitXite/gitXite/output/snake.svg" alt="Snake animation" />
+
+## 🛠 Skills & Technologies
+#### Currently working with:
+- JavaScript • TypeScript
+- Python • C • Go • Java
+- SQL • PostgreSQL
+- Node.js • Express.js
+- React • Vite
+- HTML • CSS • Tailwind CSS
+- Git • GitHub • Postman
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+</div>
+
+#### Future learning goals:
+- C# / .NET
+- **Cloud architecture** (AWS / Azure)
+- ✅ **CI/CD workflows** with GitHub Actions
+- ✅ **Docker** for containerization 
+- **Kubernetes** for orchestration and scaling
 
 ## 🚀 What I'm Working On
 ### HANDL
