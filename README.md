@@ -1,4 +1,5 @@
-<h1 align="left">Hi! My name is Daniel<br> I'm a fullstack developer and software engineer from Norway</h1>
+<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h3 align="center">A passionate fullstack developer and software engineer from Norway!</h3>
 
 ###
 
@@ -16,7 +17,7 @@ I'm doing a bachelor’s degree in Computer Science and Engineering at Høgskule
 
 <br clear="both">
 
-<img align="center" src="https://raw.githubusercontent.com/gitXite/gitXite/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gitXite/gitXite/output/snake.svg" alt="Snake animation" />
 
 ## 🛠 Skills & Technologies
 #### Currently working with:
@@ -30,27 +31,27 @@ I'm doing a bachelor’s degree in Computer Science and Engineering at Høgskule
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="18" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="18" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="18" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="18" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="go logo"  />
-  <img width="18" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
-  <img width="18" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="18" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="18" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="18" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="18" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
-  <img width="18" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
 </div>
 
@@ -62,7 +63,13 @@ I'm doing a bachelor’s degree in Computer Science and Engineering at Høgskule
 - **Kubernetes** for orchestration and scaling
 
 ## 🚀 What I'm Working On
+### SCAPE
+<a href='https://github.com/gitXite/scape-frontend'>Frontend</a>
+<a href=''>Backend</a>
+
 ### HANDL
+<a href='https://github.com/gitXite/handl_frontend'>Frontend</a>
+<a href='https://github.com/gitXite/handl_backend'>Backend</a>
 I'm building HANDL, a full-stack web app that helps users create, manage, and share shopping lists in real time. Whether you're planning groceries solo or coordinating with family, HANDL keeps everything in sync across devices. 
 
 Focusing on:
@@ -71,15 +78,6 @@ Focusing on:
 - Responsive UI & clean UX in React
 - Real-time updates with Server-Sent Events (SSE)
 - Deployment & hosting (launch coming soon!)
-
-### Date-Knight
-A lightweight date generator, arranging the perfect date with just a click. With curated activities in different categories, Date-Knight is tailored to four of the major cities in Norway. 
-
-Focusing on:
-- A lightweight backend built on Flask
-- UI design with Tailwind CSS
-- Type safety using Typescript with React + Vite
-- A possible collaboration with various local businesses 
 
 ## 📚 Learning Philosophy
 I learn by building. I’m not afraid to take on difficult challenges, in fact I thrive on them. I believe the higher the skill cap, the more rewarding the journey. I’m committed to putting in the time and effort to improve, one project at a time.
