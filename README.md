@@ -66,10 +66,12 @@ I'm doing a bachelor’s degree in Computer Science and Engineering at Høgskule
 ### SCAPE
 <a href='https://github.com/gitXite/scape-frontend'>Frontend</a>
 <a href=''>Backend</a>
+<br />
 
 ### HANDL
 <a href='https://github.com/gitXite/handl_frontend'>Frontend</a>
 <a href='https://github.com/gitXite/handl_backend'>Backend</a>
+<br />
 I'm building HANDL, a full-stack web app that helps users create, manage, and share shopping lists in real time. Whether you're planning groceries solo or coordinating with family, HANDL keeps everything in sync across devices. 
 
 Focusing on:
