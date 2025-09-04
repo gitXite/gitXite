@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate fullstack developer and software engineer from Norway!</h3>
+<h1 align="left">Hi 👋, I'm Daniel</h1>
+<h3 align="left">A passionate fullstack developer and software engineer from Norway!</h3>
 
 ###
 
