@@ -1,16 +1,22 @@
 <h1 align="left">Hi! My name is Daniel<br> I'm a fullstack developer and software engineer from Norway</h1>
 
-## 🗺️ My Journey
-I began coding in 2024 and quickly discovered a deep passion for building real-world projects. Since then, I’ve spent my spare time learning and improving every day, focusing on both frontend and backend development.
-
-I'm doing a bachelor’s degree in Computer Science and Engineering at Høgskulen på Vestlandet in Bergen, Norway.
-
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gitXite&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitXite&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gitXite/gitXite/output/snake.svg" alt="Snake animation" />
+
+## 🗺️ My Journey
+I began coding in 2024 and quickly discovered a deep passion for building real-world projects. Since then, I’ve spent my spare time learning and improving every day, focusing on both frontend and backend development.
+
+I'm doing a bachelor’s degree in Computer Science and Engineering at Høgskulen på Vestlandet in Bergen, Norway.
 
 ## 🛠 Skills & Technologies
 #### Currently working with:
@@ -64,9 +70,3 @@ Resources I’ve used:
 I'm motivated by solving problems, continuous improvement, and seeing ideas come to life through code. Each project teaches me something new, from writing better logic to structuring apps and designing interfaces.
 
 I’m curious, driven, and always striving to push myself forward.
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gitXite/gitXite/output/snake.svg" alt="Snake animation" />
