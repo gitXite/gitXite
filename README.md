@@ -58,17 +58,17 @@ I'm doing a bachelor’s degree in Computer Science and Engineering at Høgskule
 - ✅ **Docker** for containerization 
 - **Kubernetes** for orchestration and scaling
 
-## 🚀 What I'm Working On
-### SCAPE
-<a href='https://github.com/gitXite/scape-frontend'>Frontend</a>
-<a href=''>Backend</a>
+## 🚀 Glimpse into what I'm Working On
+### SCAPE by md
+Info to come
+
+<a href='https://github.com/gitXite/scape-frontend'>Frontend</a> | <a href=''>Backend</a>
 
 
 ### HANDL
 I'm building HANDL, a full-stack web app that helps users create, manage, and share shopping lists in real time. Whether you're planning groceries solo or coordinating with family, HANDL keeps everything in sync across devices. 
 
-<a href='https://github.com/gitXite/handl_frontend'>Frontend</a>
-<a href='https://github.com/gitXite/handl_backend'>Backend</a>
+<a href='https://github.com/gitXite/handl_frontend'>Frontend</a> | <a href='https://github.com/gitXite/handl_backend'>Backend</a>
 
 Focusing on:
 - Authentication & session management (Passport.js)
@@ -78,8 +78,7 @@ Focusing on:
 - Deployment & hosting (launch coming soon!)
 
 ## 📚 Learning Philosophy
-I learn by building. I’m not afraid to take on difficult challenges, in fact I thrive on them. I believe the higher the skill cap, the more rewarding the journey. I’m committed to putting in the time and effort to improve, one project at a time.
-
+I learn by building. I’m not afraid to take on difficult challenges, in fact I thrive on them. I believe the higher the skill cap, the more rewarding the journey. I’m committed to putting in the time and effort to improve. 
 I aim to write clean, maintainable code and follow best practices while finding practical solutions.
 
 ## 💡 What Drives Me
