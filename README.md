@@ -58,7 +58,7 @@ I'm pursuing a bachelor’s degree in Computer Science and Engineering at Høgsk
 - ✅ **Docker** for containerization 
 - **Kubernetes** for orchestration and scaling
 
-## 🚀 Glimpse into what I'm Working On
+## 🚀 A Glimpse Into What I'm Working On
 ### SCAPE by md
 Info to come
 
