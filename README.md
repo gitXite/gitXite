@@ -61,16 +61,14 @@ I'm doing a bachelor’s degree in Computer Science and Engineering at Høgskule
 ## 🚀 What I'm Working On
 ### SCAPE
 <a href='https://github.com/gitXite/scape-frontend'>Frontend</a>
-<br />
 <a href=''>Backend</a>
 
 
 ### HANDL
-<a href='https://github.com/gitXite/handl_frontend'>Frontend</a>
-<br />
-<a href='https://github.com/gitXite/handl_backend'>Backend</a>
-<br />
 I'm building HANDL, a full-stack web app that helps users create, manage, and share shopping lists in real time. Whether you're planning groceries solo or coordinating with family, HANDL keeps everything in sync across devices. 
+
+<a href='https://github.com/gitXite/handl_frontend'>Frontend</a>
+<a href='https://github.com/gitXite/handl_backend'>Backend</a>
 
 Focusing on:
 - Authentication & session management (Passport.js)
