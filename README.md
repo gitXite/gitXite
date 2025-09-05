@@ -15,8 +15,6 @@ I'm doing a bachelor’s degree in Computer Science and Engineering at Høgskule
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/gitXite/gitXite/output/snake.svg" alt="Snake animation" />
 
 ## 🛠 Skills & Technologies
