@@ -27,8 +27,6 @@ I'm doing a bachelor’s degree in Computer Science and Engineering at Høgskule
 - HTML • CSS • Tailwind CSS
 - Git • GitHub • Postman
 
-###
-
 <div align='center'>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
