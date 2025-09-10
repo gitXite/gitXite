@@ -69,9 +69,9 @@ Focusing on:
 - Building a real service
 - Integrating payment APIs
 - 3D rendering with Three.js
-- Managing and integrating microservices
+- Creating, managing, and integrating microservices
 
-<a href='https://github.com/gitXite/terrain-service'>Terrain-Service</a>
+<a href='https://github.com/gitXite/terrain-service'>STL Service</a>
 
 
 ### HANDL
