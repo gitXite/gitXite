@@ -62,7 +62,7 @@ I'm pursuing a bachelor’s degree in Computer Science and Engineering at Høgsk
 ### SCAPE by md
 Info to come
 
-<a href='https://github.com/gitXite/scape-frontend'>Frontend</a> | <a href=''>Backend</a>
+<a href='https://github.com/gitXite/scape-frontend'>Frontend</a> | <a href='https://github.com/gitXite/scape-backend'>Backend</a>
 
 
 ### HANDL
