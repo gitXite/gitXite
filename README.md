@@ -71,7 +71,7 @@ Focusing on:
 - 3D rendering with Three.js
 - Creating, managing, and integrating microservices
 
-<a href='https://github.com/gitXite/terrain-service'>STL Service</a>
+<a href='https://github.com/gitXite/terrain-service'>Terrain-STL Microservice</a>
 
 
 ### HANDL
