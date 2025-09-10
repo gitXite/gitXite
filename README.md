@@ -71,6 +71,8 @@ Focusing on:
 - 3D rendering with Three.js
 - Managing and integrating microservices
 
+<a href='https://github.com/gitXite/terrain-service'>Terrain-Service</a>
+
 
 ### HANDL
 I'm building HANDL, a full-stack web app that helps users create, manage, and share shopping lists in real time. Whether you're planning groceries solo or coordinating with family, HANDL keeps everything in sync across devices. 
