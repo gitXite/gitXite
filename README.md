@@ -58,11 +58,18 @@ I'm pursuing a bachelor’s degree in Computer Science and Engineering at Høgsk
 - ✅ **Docker** for containerization 
 - **Kubernetes** for orchestration and scaling
 
-## 🚀 A Glimpse Into What I'm Working On
+## 🚀 What I'm Working On
 ### SCAPE by md
-Info to come
+
+SCAPE by md is a full-stack hybrid e‑commerce service that prints, frames, and delivers beautiful and sentimental decoration pieces, tailored to you. 
 
 <a href='https://github.com/gitXite/scape-frontend'>Frontend</a> | <a href='https://github.com/gitXite/scape-backend'>Backend</a>
+
+Focusing on:
+- Building a real service
+- Integrating payment APIs
+- 3D rendering with Three.js
+- Managing and integrating microservices
 
 
 ### HANDL
