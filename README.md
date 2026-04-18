@@ -2,6 +2,7 @@
 
 ## Currently I'm
 A software engineer student at Høgskulen på Vestlandet, Bergen. 
+<br/>
 I build full-stack software and learn by shipping real projects.
 
 ###
