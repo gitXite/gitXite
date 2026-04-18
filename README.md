@@ -69,4 +69,4 @@ Focusing on:
 |---|---|---|---|---|---|---|---|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> | <img src="https://www.readmecodegen.com/api/social-icon?name=express&size=96&color=%23ffffff" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> | <img src="https://www.readmecodegen.com/api/social-icon?name=gnubash&size=96" width="40"/> | <img src="https://www.readmecodegen.com/api/social-icon?name=githubactions&size=96" width="40"/> |
 
-I learn by building. Every project on here is proof of that.
+#### I learn by building. Every project on here is proof of that.
