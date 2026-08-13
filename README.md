@@ -30,7 +30,7 @@ Focusing on:
 - STL file writing from DEM data
 - Creating, managing, and integrating microservices
 
-<a href='https://github.com/gitXite/terrain-service'>Terrain-Service</a>
+<a href='https://github.com/gitXite/terrain-service-refactored'>Terrain-Service</a>
 
 
 ### HANDL
